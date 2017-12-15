@@ -1,0 +1,36 @@
+c:\users\marcelo\documents\visual studio 2013\Projects\TechnoUpdate\TechnoUpdate\bin\Debug\TechnoUpdate.exe.config
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\bin\Debug\TechnoUpdate.exe
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\bin\Debug\TechnoUpdate.pdb
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Form1.resources
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Properties.Resources.resources
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.exe
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.pdb
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.CadastroDeCliente.resources
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Relatorio.resources
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Produtos.resources
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Fornecedores.resources
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Caixa.resources
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Clientes.resources
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Dados.resources
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Contas.resources
+C:\Users\Marcelo\Documents\Visual Studio 2013\Projects\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Fiado.resources
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\bin\Debug\TechnoUpdate.exe.config
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.exe
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.pdb
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\bin\Debug\TechnoUpdate.exe
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\bin\Debug\TechnoUpdate.pdb
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.CadastroDeCliente.resources
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Caixa.resources
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Clientes.resources
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Contas.resources
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Dados.resources
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Fiado.resources
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Form1.resources
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Fornecedores.resources
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Produtos.resources
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.Relatorio.resources
+C:\Users\Marcelo\Desktop\TechnoUpdate\TechnoUpdate\obj\Debug\TechnoUpdate.csproj.GenerateResource.Cache
