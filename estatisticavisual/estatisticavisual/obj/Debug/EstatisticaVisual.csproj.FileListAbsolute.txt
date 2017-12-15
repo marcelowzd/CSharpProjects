@@ -1,0 +1,10 @@
+c:\users\marcelo\documents\visual studio 2013\Projects\EstatisticaVisual\EstatisticaVisual\bin\Debug\EstatisticaVisual.exe.config
+c:\users\marcelo\documents\visual studio 2013\Projects\EstatisticaVisual\EstatisticaVisual\bin\Debug\EstatisticaVisual.exe
+c:\users\marcelo\documents\visual studio 2013\Projects\EstatisticaVisual\EstatisticaVisual\bin\Debug\EstatisticaVisual.pdb
+c:\users\marcelo\documents\visual studio 2013\Projects\EstatisticaVisual\EstatisticaVisual\obj\Debug\EstatisticaVisual.csprojResolveAssemblyReference.cache
+c:\users\marcelo\documents\visual studio 2013\Projects\EstatisticaVisual\EstatisticaVisual\obj\Debug\EstatisticaVisual.Form1.resources
+c:\users\marcelo\documents\visual studio 2013\Projects\EstatisticaVisual\EstatisticaVisual\obj\Debug\EstatisticaVisual.Properties.Resources.resources
+c:\users\marcelo\documents\visual studio 2013\Projects\EstatisticaVisual\EstatisticaVisual\obj\Debug\EstatisticaVisual.csproj.GenerateResource.Cache
+c:\users\marcelo\documents\visual studio 2013\Projects\EstatisticaVisual\EstatisticaVisual\obj\Debug\EstatisticaVisual.exe
+c:\users\marcelo\documents\visual studio 2013\Projects\EstatisticaVisual\EstatisticaVisual\obj\Debug\EstatisticaVisual.pdb
+C:\Users\Marcelo\documents\visual studio 2013\Projects\EstatisticaVisual\EstatisticaVisual\obj\Debug\EstatisticaVisual.Resultados.resources
