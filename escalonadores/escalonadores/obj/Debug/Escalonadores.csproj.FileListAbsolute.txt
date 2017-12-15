@@ -1,0 +1,10 @@
+c:\users\marcelo\documents\visual studio 2013\Projects\Escalonadores\Escalonadores\bin\Debug\Escalonadores.exe.config
+c:\users\marcelo\documents\visual studio 2013\Projects\Escalonadores\Escalonadores\bin\Debug\Escalonadores.exe
+c:\users\marcelo\documents\visual studio 2013\Projects\Escalonadores\Escalonadores\bin\Debug\Escalonadores.pdb
+c:\users\marcelo\documents\visual studio 2013\Projects\Escalonadores\Escalonadores\obj\Debug\Escalonadores.csprojResolveAssemblyReference.cache
+c:\users\marcelo\documents\visual studio 2013\Projects\Escalonadores\Escalonadores\obj\Debug\Escalonadores.fMenuPrincipal.resources
+c:\users\marcelo\documents\visual studio 2013\Projects\Escalonadores\Escalonadores\obj\Debug\Escalonadores.Properties.Resources.resources
+c:\users\marcelo\documents\visual studio 2013\Projects\Escalonadores\Escalonadores\obj\Debug\Escalonadores.SRT.resources
+c:\users\marcelo\documents\visual studio 2013\Projects\Escalonadores\Escalonadores\obj\Debug\Escalonadores.csproj.GenerateResource.Cache
+c:\users\marcelo\documents\visual studio 2013\Projects\Escalonadores\Escalonadores\obj\Debug\Escalonadores.exe
+c:\users\marcelo\documents\visual studio 2013\Projects\Escalonadores\Escalonadores\obj\Debug\Escalonadores.pdb
